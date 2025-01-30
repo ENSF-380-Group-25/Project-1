@@ -61,7 +61,7 @@
         <mxCell id="MXdK9neix7-4rawSYrGm-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="MXdK9neix7-4rawSYrGm-19" vertex="1">
           <mxGeometry y="52" width="220" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="MXdK9neix7-4rawSYrGm-22" value="&lt;div&gt;+Dependant()&lt;/div&gt;&lt;div&gt;+Dependant(SocialWorkerNumber: int)&lt;/div&gt;+getSocialWorkerNumber: int&lt;div&gt;+setSocialWorkerNumber: int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MXdK9neix7-4rawSYrGm-19" vertex="1">
+        <mxCell id="MXdK9neix7-4rawSYrGm-22" value="&lt;div&gt;+Dependant()&lt;/div&gt;&lt;div&gt;+Dependant(SocialWorkerNumber: int)&lt;/div&gt;+getSocialWorkerNumber: int&lt;div&gt;+setSocialWorkerNumber(arg: int)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MXdK9neix7-4rawSYrGm-19" vertex="1">
           <mxGeometry y="60" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXdK9neix7-4rawSYrGm-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
